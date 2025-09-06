@@ -1,0 +1,14 @@
+C:\vspr\MiniApp\bin\Debug\net8.0\MiniApp.exe
+C:\vspr\MiniApp\bin\Debug\net8.0\MiniApp.deps.json
+C:\vspr\MiniApp\bin\Debug\net8.0\MiniApp.runtimeconfig.json
+C:\vspr\MiniApp\bin\Debug\net8.0\MiniApp.dll
+C:\vspr\MiniApp\bin\Debug\net8.0\MiniApp.pdb
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.AssemblyInfoInputs.cache
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.AssemblyInfo.cs
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.csproj.CoreCompileInputs.cache
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.dll
+C:\vspr\MiniApp\obj\Debug\net8.0\refint\MiniApp.dll
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.pdb
+C:\vspr\MiniApp\obj\Debug\net8.0\MiniApp.genruntimeconfig.cache
+C:\vspr\MiniApp\obj\Debug\net8.0\ref\MiniApp.dll
